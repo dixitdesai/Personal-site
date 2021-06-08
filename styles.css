@@ -1,0 +1,159 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+.profile {
+  padding-top: 100px;
+  width: 40%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.skills {
+  padding-top: 70px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D3D3D3;
+  border-width: 5px;
+  width: 4%;
+  margin: auto;
+}
+.middle-container {
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding: 35px 0;
+}
+
+.footer-description {
+  width: 40%;
+  margin: auto;
+}
+
+
+h1 {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5.625rem;
+  margin: 75px auto 0 auto;
+  color: #66BFBF;
+}
+
+.subtitle {
+  font-weight: normal;
+  line-height: 0;
+  font-size: 150%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+  color: #66BFBF;
+  line-height: 2;
+  font-size: 200%;
+}
+
+a {
+  color: #11999E;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  line-height: 2;
+  font-size: 150%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 410px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 410px;
+  top: 50px;
+}
+
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.design {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.develop {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+p {
+  line-height: 2;
+  font-size: 110%;
+  color: #40514E;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 80%;
+  padding-top: 20px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.btn {
+  background-color: #11999E;
+  border: none;
+  color: #EAF6F6;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto 70px auto;
+}
+
+.btn:hover {
+  background-color: #118776;
+  color: #EAF6F6;
+}

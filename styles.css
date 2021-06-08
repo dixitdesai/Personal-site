@@ -35,9 +35,7 @@ hr {
   width: 4%;
   margin: auto;
 }
-.middle-container {
 
-}
 
 .bottom-container {
   background-color: #66BFBF;
@@ -48,6 +46,7 @@ hr {
 .footer-description {
   width: 40%;
   margin: auto;
+  font-size: 110%;
 }
 
 

@@ -2,6 +2,7 @@ body {
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', serif;
+  word-spacing: 5px;
 }
 
 .top-container {
@@ -10,7 +11,10 @@ body {
   padding-top: 100px;
 }
 
-
+.freelance {
+  width: 50%;
+  margin: 50px auto;
+}
 
 .profile {
   padding-top: 100px;
